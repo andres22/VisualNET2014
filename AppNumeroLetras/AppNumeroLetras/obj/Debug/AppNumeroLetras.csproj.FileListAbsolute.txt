@@ -1,0 +1,5 @@
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppNumeroLetras\AppNumeroLetras\bin\Debug\AppNumeroLetras.exe.config
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppNumeroLetras\AppNumeroLetras\bin\Debug\AppNumeroLetras.exe
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppNumeroLetras\AppNumeroLetras\bin\Debug\AppNumeroLetras.pdb
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppNumeroLetras\AppNumeroLetras\obj\Debug\AppNumeroLetras.exe
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppNumeroLetras\AppNumeroLetras\obj\Debug\AppNumeroLetras.pdb

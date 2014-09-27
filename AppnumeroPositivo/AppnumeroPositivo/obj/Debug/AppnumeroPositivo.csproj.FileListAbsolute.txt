@@ -1,0 +1,6 @@
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppnumeroPositivo\AppnumeroPositivo\bin\Debug\AppnumeroPositivo.exe.config
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppnumeroPositivo\AppnumeroPositivo\bin\Debug\AppnumeroPositivo.exe
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppnumeroPositivo\AppnumeroPositivo\bin\Debug\AppnumeroPositivo.pdb
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppnumeroPositivo\AppnumeroPositivo\obj\Debug\AppnumeroPositivo.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppnumeroPositivo\AppnumeroPositivo\obj\Debug\AppnumeroPositivo.exe
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppnumeroPositivo\AppnumeroPositivo\obj\Debug\AppnumeroPositivo.pdb
